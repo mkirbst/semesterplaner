@@ -1,0 +1,1 @@
+java -cp "dist/semesterplaner.jar;dist/lib/*" semesterplaner.main.main

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+  <config Dirty="false" Seminargruppe="IF08w1-B"
+    ServerUrl="https://www.intranet.hs-mittweida.da"
+    automatischeAktualisierung="false"
+    automatischeKonfliktloesung="false"
+    speicherPfad="C:\Users\m\Documents\NetBeansProjects\Semesterplaner\semesterplaner\Code\semesterplaner\" tempPfad="C:\Users\m\Documents\NetBeansProjects\Semesterplaner\semesterplaner\Code\semesterplaner\"/>
+</config>
